@@ -1,0 +1,33 @@
+{
+  "name": "create-rapidjs-app",
+  "version": "1.0.1",
+  "description": "Create RapidJS apps with a single command",
+  "main": "index.js",
+  "bin": {
+    "create-rapidjs-app": "./index.js"
+  },
+  "type": "commonjs",
+  "keywords": [
+    "rapidjs",
+    "framework",
+    "javascript",
+    "front-end",
+    "lightweight",
+    "frontend",
+    "create-app",
+    "generator",
+    "scaffold",
+    "cli",
+    "npx",
+    "project-generator"
+  ],
+  "author": "Taha Aljamri",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "inquirer": "^12.9.0",
+    "ora": "^5.4.1"
+  }
+}
