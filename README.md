@@ -1,6 +1,6 @@
 # [create-rapid-app](https://github.com/NOT-LT/RapidJS)
 
-A lightweight command-line tool to create RapidJS applications with minimal setup.
+A command-line tool to create RapidJS applications with minimal setup.
 
 ## Usage
 ن
