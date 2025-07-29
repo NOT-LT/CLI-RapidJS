@@ -7,19 +7,19 @@ A lightweight command-line tool to create RapidJS applications with minimal setu
 Create a new RapidJS app in one command:
 
 ```bash
-npx create-rapidjs-app my-app
+npx create-rapid-app
 ```
 
 Or specify a different directory name:
 
 ```bash
-npx create-rapidjs-app my-awesome-app
+npx create-rapid-app my-awesome-app
 ```
 
 If no directory name is provided, you will be prompted to enter a folder name. The default name is  `rapidjs-app`:
 
 ```bash
-npx create-rapidjs-app
+npx create-rapid-app
 ```
 
 ## What's Included

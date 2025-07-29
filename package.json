@@ -1,14 +1,15 @@
 {
-  "name": "create-rapidjs-app",
-  "version": "1.0.1",
-  "description": "Create RapidJS apps with a single command",
+  "name": "create-rapid-app",
+  "version": "1.0.0",
+  "description": "Create a Rapid JS app with a single command",
   "main": "index.js",
   "bin": {
-    "create-rapidjs-app": "./index.js"
+    "create-rapid-app": "./index.js"
   },
   "type": "commonjs",
   "keywords": [
     "rapidjs",
+    "rapid",
     "framework",
     "javascript",
     "front-end",
