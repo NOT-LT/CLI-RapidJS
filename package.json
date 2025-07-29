@@ -1,6 +1,6 @@
 {
   "name": "create-rapid-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create a Rapid JS app with a single command",
   "main": "index.js",
   "bin": {

@@ -1,9 +1,9 @@
-# create-rapidjs-app
+# [create-rapid-app](https://github.com/NOT-LT/RapidJS)
 
 A lightweight command-line tool to create RapidJS applications with minimal setup.
 
 ## Usage
-
+ن
 Create a new RapidJS app in one command:
 
 ```bash
